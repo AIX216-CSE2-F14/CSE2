@@ -1,0 +1,11 @@
+// Aiwen Xu
+// CSE002
+// Lab 00
+
+public class HelloWorld{
+    public static void main( String[] args){
+        System.out.println("Hello World");
+        
+        
+    }
+}
